@@ -4,7 +4,7 @@ Deepfake Detection Using Convolutional Neural Network (CNN)
 
 About :
 
-The Deepfake Detection Using CNN project aims to create a highly effective system to detect deepfake videos. Deepfakes are synthetic media where a person’s likeness or voice is convincingly altered using AI techniques. This manipulation can lead to misinformation and severe consequences. The project utilizes Convolutional Neural Networks (CNN), a state-of-the-art deep learning architecture, to distinguish between real and fake video content. This system provides a reliable and scalable tool to combat the spread of false media content.
+The Deepfake Detection Using CNN project aims to create a highly effective system to detect deepfake videos. Deepfakes are synthetic media where a person’s likeness or voice is convincingly altered using AI techniques. This manipulation can lead to misinformation and severe consequences. The project utilizes Convolutional Neural Networks (CNN), a state-of-the-art deep learning architecture, to distinguish between real and fake video content. This system provides a reliable and scalable tool to combat the spread of false media content
 
 The core functionality of the project allows users to upload videos, which are then processed by a CNN model to detect any alterations. The system provides real-time feedback on the authenticity of the video, reporting whether it is real or fake. The system is designed to handle large datasets and operates efficiently with an intuitive user interface for seamless interaction.
 
